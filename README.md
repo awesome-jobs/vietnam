@@ -6,7 +6,7 @@ This is an experimental idea to leverage the power of GitHub issue for recruitme
 
 ## How to submit a new job?
 
-Simply ![submit a ticket GitHub issue](https://github.com/ruby-vietnam/job_board/issues/new) and follow the template:
+Simply [submit a ticket GitHub issue](https://github.com/ruby-vietnam/job_board/issues/new) and follow the template:
 
 ```text
 Title: Company Name - Job Position
