@@ -4,7 +4,11 @@ The best place to find jobs! Ruby/ROR devs in Vietnam!
 
 This is an experimental idea to leverage the power of GitHub issue for recruitment.
 
-## How to submit a new job?
+## Hey I am looking for jobs
+
+Listed jobs are in [Github issues](https://github.com/ruby-vietnam/job_board/issues)
+
+## Hey I am offering jobs
 
 Simply [submit a ticket GitHub issue](https://github.com/ruby-vietnam/job_board/issues/new) and follow the template:
 
