@@ -16,6 +16,11 @@ Simply [submit a ticket GitHub issue](https://github.com/ruby-vietnam/job_board/
 Title: Company Name - Job Position
 Content:
 
+## Location
+
+* Hanoi, Vietnam
+* Remote
+
 ## Requirements
 * Ruby
 * Lotus Framework
