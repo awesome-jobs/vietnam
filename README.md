@@ -1,16 +1,16 @@
 # Job Board
 
-The best place to find jobs! Ruby/ROR devs in Vietnam!
+Jobs posted to HCMUS-IT facebook group.
 
 This is an experimental idea to leverage the power of GitHub issue for recruitment.
 
 ### Hey I am looking for jobs
 
-Listed jobs are in [Github issues](https://github.com/ruby-vietnam/job_board/issues)
+Listed jobs are in [Github issues](https://github.com/HCMUS-IT/job_board/issues)
 
 ### Hey I am offering jobs
 
-Simply [submit a ticket GitHub issue](https://github.com/ruby-vietnam/job_board/issues/new) and follow the template:
+Simply [submit a ticket GitHub issue](https://github.com/HCMUS-IT/job_board/issues/new) and follow the template:
 
 ```text
 Title: Company Name - Job Position
