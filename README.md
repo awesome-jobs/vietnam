@@ -1,8 +1,6 @@
 # Job Board
 
-The best place to find jobs! Ruby/ROR devs in Vietnam!
-
-This is an experimental idea to leverage the power of GitHub issue for recruitment.
+The best place to post jobs related to Ruby/Rails/Python/Go/Erlang/Elixir/Rust/Scala/Java/iOS/Android/JS devs in Vietnam!
 
 ### Hey I am looking for jobs
 
