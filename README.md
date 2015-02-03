@@ -1,14 +1,14 @@
 # Job Board
 
-The best place to post jobs related to Ruby/Rails/Python/Go/Erlang/Elixir/Rust/Scala/Java/iOS/Android/JS devs in Vietnam!
+The best place to post jobs related to Go/iOS/Android devs in Vietnam!
 
 ### Hey I am looking for jobs
 
-Listed jobs are in [Github issues](https://github.com/ruby-vietnam/job_board/issues)
+Listed jobs are in [Github issues](https://github.com/golang-vietnam/job_board/issues)
 
 ### Hey I am offering jobs
 
-Simply [submit a ticket GitHub issue](https://github.com/ruby-vietnam/job_board/issues/new) and follow the template:
+Simply [submit a ticket GitHub issue](https://github.com/golang-vietnam/job_board/issues/new) and follow the template:
 
 ```text
 Title: Company Name - Job Position
@@ -16,13 +16,13 @@ Content:
 
 ## Location
 
-* Hanoi, Vietnam
+* Saigon, Vietnam
 * Remote
 
 ## Requirements
-* Ruby
-* Lotus Framework
-* MySQL/PostgrSQL
+* Golang
+* Revel/Gorrila 
+* MySQL/PostgreSQL
 * 5+ years Software Engineering experience
 
 ## Skills
