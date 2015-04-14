@@ -1,3 +1,5 @@
+[![](http://golangvietnam.herokuapp.com/badge.svg)](http://golangvietnam.herokuapp.com "Golang Vietnam on Slack")
+
 # Job Board
 
 The best place to post jobs related to Go/iOS/Android devs in Vietnam!
