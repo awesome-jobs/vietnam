@@ -10,10 +10,15 @@ Listed jobs are in [Github issues](https://github.com/ruby-vietnam/job_board/iss
 
 Simply [submit a ticket GitHub issue](https://github.com/ruby-vietnam/job_board/issues/new) and follow the template:
 
-```text
-Title: Company Name - Job Position
-Content:
+```
+Title: Company Name - Job Position - [Location]
 
+For eg: Company A - Rails Developer - [Remote/Hanoi/Saigon]
+```
+
+With content:
+
+```
 ## Location
 
 * Hanoi, Vietnam
