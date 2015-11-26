@@ -29,7 +29,7 @@ Simply [submit a ticket GitHub issue](https://github.com/ruby-vietnam/job_board/
 
 ### What is the format of the job post?
 
-Every job post should have a clear title that follow below format:
+Every job post _MUST_ follow below format:
 
 ```
 [Company Name] - [Job Title] - [Location]
@@ -41,7 +41,7 @@ for eg:
 Facebook - Chief Software Architect - Remote/Saigon
 ```
 
-and the content of the job post must be in [Markdown format](https://daringfireball.net/projects/markdown/syntax). We prepare the following template for you (you can include more details if you like, pictures are always great additions):
+and the content of the job post _MUST_ be in [Markdown format](https://daringfireball.net/projects/markdown/syntax). We prepare the following template for you (you can include more details if you like, pictures are always great additions):
 
 ```
 ## Location
