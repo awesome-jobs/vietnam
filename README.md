@@ -30,7 +30,7 @@ Simply [submit a ticket GitHub issue](https://github.com/ruby-vietnam/job_board/
 
 ### What is the format of the job post?
 
-Every job post _MUST_ follow below format:
+Every job post **MUST strictly** follow below format:
 
 ```
 [Company Name] - [Job Title] - [Location] - [Job Type]
