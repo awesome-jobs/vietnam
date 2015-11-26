@@ -14,6 +14,7 @@ We only accept job post for following technologies:
 * Python/Django
 * Go
 * Erlang/Elixir/Phoenix
+* C/C++
 * Rust
 * Java
 * Scala
@@ -32,13 +33,19 @@ Simply [submit a ticket GitHub issue](https://github.com/ruby-vietnam/job_board/
 Every job post _MUST_ follow below format:
 
 ```
-[Company Name] - [Job Title] - [Location]
+[Company Name] - [Job Title] - [Location] - [Job Type]
 ```
+
+in which `[Job Type]` could be:
+
+* FT (for Full Time)
+* PT (for Part Time)
+* C (for Contract)
 
 for eg:
 
 ```
-Facebook - Chief Software Architect - Remote/Saigon
+Facebook - Chief Software Architect - Remote/Saigon - FT
 ```
 
 and the content of the job post _MUST_ be in [Markdown format](https://daringfireball.net/projects/markdown/syntax). We prepare the following template for you (you can include more details if you like, pictures are always great additions):
@@ -48,6 +55,10 @@ and the content of the job post _MUST_ be in [Markdown format](https://daringfir
 
 * Saigon, Vietnam
 * Remote
+
+## Salary Expectation
+
+* $5000/month or negotiable
 
 ## Requirements
 * Ruby
