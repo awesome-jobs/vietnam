@@ -52,7 +52,7 @@ and the content of the job post _MUST_ be in [Markdown format](https://daringfir
 ## Requirements
 * Ruby
 * Lotus Framework
-* PostgrSQL
+* PostgreSQL
 * 5+ years Software Engineering experience
 
 ## Skills
