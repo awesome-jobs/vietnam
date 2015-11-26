@@ -1,33 +1,58 @@
 # Job Board
 
-The best place to post jobs related to Ruby/Rails/Python/Go/Erlang/Elixir/Rust/Scala/Java/iOS/Android/JS devs in Vietnam!
+We are striving to connect the best developers to the best companies in Vietnam and overseas!
 
-### Hey I am looking for jobs
+If you are looking for jobs, listed jobs are in [Github issues](https://github.com/ruby-vietnam/job_board/issues)
 
-Listed jobs are in [Github issues](https://github.com/ruby-vietnam/job_board/issues)
+If you are recruiting, please be noted that we strongly believe that __good companies always provide the best job post__. It is our duty to uphold this belief by asking that you, the recruiter, to _comply_ with our strict rules below. If the job post does not meet our requirements, it would get __deleted after 2 days__.
 
-### Hey I am offering jobs
+### What type of job could you advertise?
 
-Simply [submit a ticket GitHub issue](https://github.com/ruby-vietnam/job_board/issues/new) and follow the template:
+We only accept job post for following technologies:
+
+* Ruby/Rails/Lotus
+* Python/Django
+* Go
+* Erlang/Elixir/Phoenix
+* Rust
+* Java
+* Scala
+* iOS/Swift/Android
+* JS +/- HTML/CSS
+* UI/UX
+
+We are _NOT_ taking any PHP jobs here. 
+
+### How to submit a new job post?
+
+Simply [submit a ticket GitHub issue](https://github.com/ruby-vietnam/job_board/issues/new)
+
+### What is the format of the job post?
+
+Every job post should have a clear title that follow below format:
 
 ```
-Title: Company Name - Job Position - [Location]
-
-For eg: Company A - Rails Developer - [Remote/Hanoi/Saigon]
+[Company Name] - [Job Title] - [Location]
 ```
 
-With content:
+for eg:
+
+```
+Facebook - Chief Software Architect - Remote/Saigon
+```
+
+and the content of the job post must be in [Markdown format](https://daringfireball.net/projects/markdown/syntax). We prepare the following template for you (you can include more details if you like, pictures are always great additions):
 
 ```
 ## Location
 
-* Hanoi, Vietnam
+* Saigon, Vietnam
 * Remote
 
 ## Requirements
 * Ruby
 * Lotus Framework
-* MySQL/PostgrSQL
+* PostgrSQL
 * 5+ years Software Engineering experience
 
 ## Skills
