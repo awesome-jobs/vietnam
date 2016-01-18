@@ -48,6 +48,13 @@ for eg:
 Facebook - Chief Software Architect - Remote/Saigon - FT
 ```
 
+Please be noted, title _cannot be_ all in *uppercase* like this:
+
+```
+FACEBOOK - CHIEF SOFTWARE ARCHITECT - REMOTE/SAIGON - FT
+```
+
+
 and the content of the job post _MUST_ be in [Markdown format](https://daringfireball.net/projects/markdown/syntax). We prepare the following template for you (you can include more details if you like, pictures are always great additions):
 
 ```
