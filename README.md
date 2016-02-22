@@ -10,6 +10,7 @@ If you are recruiting, please be noted that we strongly believe that __good comp
 
 * [Ruby Vietnam](http://ruby.org.vn) - for Ruby/Rails/Hanami related jobs
 * [JavaScript Vietnam](http://chat.vietnamjs.lol) - for JS related jobs
+* [Golang Vietnam](http://facebook.com/) - for Go-lang related jobs
 
 ### What type of job could you advertise?
 
