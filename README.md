@@ -1,10 +1,14 @@
-# Job Board
+# Awesome Board
 
-We are striving to connect the best developers to the best companies in Vietnam and overseas!
+![](http://i.giphy.com/u2UWxUJ9AAoKY.gif)
 
-If you are looking for jobs, listed jobs are in [Github issues](https://github.com/ruby-vietnam/job_board/issues)
+A community-based job board that connect the best developers to the best companies in Vietnam and overseas! We place our core value in the IT communities, we win when our community win.
 
 If you are recruiting, please be noted that we strongly believe that __good companies always provide the best job post__. It is our duty to uphold this belief by asking that you, the recruiter, to _comply_ with our strict rules below. If the job post does not meet our requirements, it would get __deleted after 2 days__.
+
+### Partners
+
+* [Ruby Vietnam](http://ruby.org.vn) - for Ruby/Rails/Hanami related jobs
 
 ### What type of job could you advertise?
 
