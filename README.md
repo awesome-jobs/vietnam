@@ -12,6 +12,7 @@ If you are recruiting, please be noted that we strongly believe that __good comp
 * [JavaScript Vietnam](http://chat.vietnamjs.lol) - for JS related jobs
 * [Golang Vietnam](http://facebook.com/) - for Go-lang related jobs
 * [C++ HCMC User Group](https://www.facebook.com/groups/hcmcpp/) - for C++ related jobs in HCMC
+* [Scala Vietnam](https://www.facebook.com/scalavietnam/) - for Scala related jobs
 
 ### What type of job could you advertise?
 
