@@ -34,7 +34,7 @@ We are _NOT_ taking any PHP jobs here.
 
 ### How to submit a new job post?
 
-Simply [submit a ticket GitHub issue](https://github.com/ruby-vietnam/job_board/issues/new)
+Simply [submit a ticket GitHub issue](https://github.com/awesome-jobs/jobs/issues/new)
 
 ### What is the format of the job post?
 
