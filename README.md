@@ -26,8 +26,12 @@ We only accept job post for following technologies:
 * Rust
 * Java
 * Scala
+* Clojure
 * iOS/Swift/Android
 * JS +/- HTML/CSS
+* Haskell
+* Android/iOS
+* all .Net based languages
 * UI/UX
 
 We are _NOT_ taking any PHP jobs here. 
