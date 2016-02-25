@@ -18,7 +18,7 @@ If you are recruiting, please be noted that we strongly believe that __good comp
 
 We only accept job post for following technologies:
 
-* Ruby/Rails/Lotus
+* Ruby/Hanami/Ruby On Rails
 * Python/Django
 * Go
 * Erlang/Elixir/Phoenix
@@ -30,6 +30,7 @@ We only accept job post for following technologies:
 * iOS/Swift/Android
 * JS +/- HTML/CSS
 * Haskell
+* Crystal
 * Android/iOS
 * all .Net based languages
 * UI/UX
