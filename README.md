@@ -34,8 +34,9 @@ We only accept job post for following technologies:
 * Android/iOS
 * all .Net based languages
 * UI/UX
+* PHP/Lavarel/Symphony
 
-We are _NOT_ taking any PHP jobs here. 
+We are open to stack that are not listed too.
 
 ### How to submit a new job post?
 
