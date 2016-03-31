@@ -4,7 +4,7 @@
 
 A community-based job board that connect the best developers to the best companies in Vietnam and overseas! We place our core value in the IT communities, we win when our community win.
 
-If you are recruiting, please be noted that we strongly believe that __good companies always provide the best job post__. It is our duty to uphold this belief by asking that you, the company's HR (_not recruitment agency_), to _comply_ with our strict rules below. If the job post does not meet our requirements, it would get __deleted after 2 days__.
+If you are recruiting, please be noted that we strongly believe that __good companies always provide the best job post__. It is our duty to uphold this belief by asking that you, the company's HR (_not recruitment agency_), to _comply_ with our strict rules below. If the job post does not meet our [requirements](#what-is-the-format-of-the-job-post), it would get __deleted after 2 days__.
 
 ### Partners
 
@@ -69,7 +69,11 @@ FACEBOOK - CHIEF SOFTWARE ARCHITECT - REMOTE/SAIGON - FT
 ```
 
 
-and the content of the job post _MUST_ be in [Markdown format](https://daringfireball.net/projects/markdown/syntax). We prepare the following template for you (you can include more details if you like, pictures are always great additions):
+and the content of the job post _MUST_ be in [Markdown format](http://commonmark.org/help/). 
+
+If you're not familiar with Markdown, please [take this quick guide](http://commonmark.org/help/tutorial/) before you continue.
+
+We prepare the following template for you (you can include more details if you like, pictures are always great additions):
 
 ```
 ## Location
