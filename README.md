@@ -45,7 +45,9 @@ Simply [submit a ticket GitHub issue](https://github.com/awesome-jobs/jobs/issue
 
 ### What is the format of the job post?
 
-Every job post **MUST strictly** follow below format:
+Every job post **MUST strictly** MUST be written in *English*. Furthermore, it must comply following rules:
+
+#### Title Format
 
 ```
 [Company Name] - [Job Title] - [Location] - [Job Type]
@@ -69,8 +71,12 @@ Please be noted, title _cannot be_ all in *uppercase* like this:
 FACEBOOK - CHIEF SOFTWARE ARCHITECT - REMOTE/SAIGON - FT
 ```
 
+No special formattings like square brackets, for eg `[Chief] Software Architect` or salary, for eg `Chief Software Architect - HOT $4k salary`.
 
-and the content of the job post _MUST_ be in [Markdown format](http://commonmark.org/help/). 
+
+#### Job Description Format
+
+The content _MUST_ be in [Markdown format](http://commonmark.org/help/). 
 
 If you're not familiar with Markdown, please [take this quick guide](http://commonmark.org/help/tutorial/) before you continue.
 
@@ -120,3 +126,7 @@ Great power comes with great responsibilities!
 
 Trollman: trollman_at_gmail_dot_com (mobile number optional)
 ```
+
+#### Checklists before submission
+
+Please ensure you do check for typo and grammar before submitting the post.
