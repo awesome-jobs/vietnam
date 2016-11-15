@@ -1,4 +1,4 @@
-# BEFORE POSTING ANYJOB: 
+# Before posting anyjob: 
 For every people who want to post job here, please read **CAREFULLY** everything we write here, or your job post will not be accepted.
 
 # Awesome Board
