@@ -1,3 +1,6 @@
+# BEFORE POSTING ANYJOB: 
+For every people who want to post job here, please read **CAREFULLY** everything we write here, or your job post will not be accepted.
+
 # Awesome Board
 
 ![](http://i.giphy.com/u2UWxUJ9AAoKY.gif)
@@ -83,16 +86,16 @@ If you're not familiar with Markdown, please [take this quick guide](http://comm
 We prepare the following template for you (you can include more details if you like, pictures are always great additions):
 
 ```
-## Location
+## Location (MUST)
 
 * Saigon, Vietnam
 * Remote
 
-## Salary Expectation
+## Salary Expectation (MUST)
 
-* $5000/month or negotiable
+* $5000/month or range
 
-## Requirements
+## Requirements (MUST)
 * Ruby
 * Lotus Framework
 * PostgreSQL
@@ -100,7 +103,7 @@ We prepare the following template for you (you can include more details if you l
 
 ## Skills
 
-### Must Have
+### Must Have (MUST)
 
 * Be able to fly
 * Be able to dodge bullet
@@ -109,7 +112,7 @@ We prepare the following template for you (you can include more details if you l
 
 * Experience with 
 
-### Responsibilities
+### Responsibilities (MUST)
 
 Great power comes with great responsibilities!
 
@@ -121,9 +124,11 @@ Great power comes with great responsibilities!
 
 * A good eyes for design
 * A good analyis skill
-    
-### Contact
 
+### Why it would be awesome to work with us (MUST)
+    
+### Contact (MUST)
+Homepage: trollman.com
 Trollman: trollman_at_gmail_dot_com (mobile number optional)
 ```
 
