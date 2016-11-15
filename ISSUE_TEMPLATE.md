@@ -5,7 +5,7 @@
 
 ## Salary Expectation
 
-* $????/month or negotiable
+* $????/month or range
 
 ## Requirements
 * Ruby
@@ -37,6 +37,8 @@ Great power comes with great responsibilities!
 * A good eyes for design
 * A good analyis skill
 
-### Contact
+### Why it would be awesome to work with us
 
+### Contact
+Homepage: Trollman.com
 Trollman: trollman_at_gmail_dot_com (mobile number optional)
