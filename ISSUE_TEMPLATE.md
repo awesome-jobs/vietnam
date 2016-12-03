@@ -39,6 +39,8 @@ Great power comes with great responsibilities!
 
 ### Why it would be awesome to work with us
 
+### What is hard problems that your company is trying to solve?
+
 ### Contact
 Homepage: Trollman.com
 Trollman: trollman_at_gmail_dot_com (mobile number optional)
