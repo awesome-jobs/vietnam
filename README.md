@@ -127,7 +127,7 @@ Great power comes with great responsibilities!
 
 ### Why it would be awesome to work with us (MUST)
     
-### What is hard problems that your company is trying to solve? (MUST)
+### What are hard problems that your company is trying to solve? (MUST)
 
 ### Contact (MUST)
 Homepage: trollman.com
