@@ -48,7 +48,7 @@ Simply [submit a ticket GitHub issue](https://github.com/awesome-jobs/jobs/issue
 
 ### How long would a job post live?
 
-1 year. Lapsed job post would be closed automatically.
+3 year. Lapsed job post would be closed automatically. Feel free to re-open the job post.
 
 ### What is the format of the job post?
 
