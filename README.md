@@ -93,17 +93,17 @@ We prepare the following template for you (you can include more details if you l
 ## Location (MUST)
 
 * Saigon, Vietnam
-* Remote
 
 ## Salary Expectation (MUST)
 
 * $5000/month or range
 
 ## Requirements (MUST)
-* Ruby
-* Lotus Framework
+
+* Brainfuck language or any esoteric programming language
 * PostgreSQL
-* 5+ years Software Engineering experience
+* AWS products
+* 25+ years experience in COBOL/FORTRAN
 
 ## Skills
 
@@ -111,12 +111,13 @@ We prepare the following template for you (you can include more details if you l
 
 * Be able to fly
 * Be able to dodge bullet
+* Be able to tell differences between Java and JavaScript
 
 ### Ideally
 
 * Experience with 
 
-### Responsibilities (MUST)
+### Responsibilities (REQUIRED)
 
 Great power comes with great responsibilities!
 
@@ -129,9 +130,16 @@ Great power comes with great responsibilities!
 * A good eyes for design
 * A good analyis skill
 
-### Why it would be awesome to work with us (MUST)
+### Why it would be awesome to work with us (REQUIRED)
+
+* Free breakfast/lunch/dinner with 3 Michelin star chef
+* Free gym membership
+* Opportunity to travel the world
     
-### What are hard problems that your company is trying to solve? (MUST)
+### Interesting Engineering Projects (REQUIRED)
+
+* Zero-downtime deployment for long-running background jobs
+* Writing a database abstraction layer to interface with different database technologies at once: PostgreSQL, MySQL, Redshift, BigQuery, Presto
 
 ### Contact (MUST)
 Homepage: trollman.com
