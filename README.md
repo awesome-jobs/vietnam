@@ -46,6 +46,10 @@ We are open to stack that are not listed too.
 
 Simply [submit a ticket GitHub issue](https://github.com/awesome-jobs/jobs/issues/new)
 
+### How long would a job post live?
+
+1 year. Lapsed job post would be closed automatically.
+
 ### What is the format of the job post?
 
 Every job post **MUST strictly** MUST be written in *English*. Furthermore, it must comply following rules:
