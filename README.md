@@ -12,10 +12,7 @@ If you are recruiting, please be noted that we strongly believe that __good comp
 ### Partners
 
 * [Ruby Vietnam](http://ruby.org.vn) - for Ruby/Rails/Hanami related jobs
-* [JavaScript Vietnam](http://chat.vietnamjs.lol) - for JS related jobs
 * [Golang Vietnam](http://facebook.com/golang.org.vn/) - for Go related jobs
-* [C++ HCMC User Group](https://www.facebook.com/groups/hcmcpp/) - for C++ related jobs in HCMC
-* [Scala Vietnam](https://www.facebook.com/scalavietnam/) - for Scala related jobs
 * [Grokking Vietnam](https://www.grokking.org) - a community of high-quality software engineers in Vietnam
 
 ### What type of job could you advertise?
