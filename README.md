@@ -12,10 +12,9 @@ If you are recruiting, please be noted that we strongly believe that __good comp
 ### Partners
 
 * [Ruby Vietnam](http://ruby.org.vn) - for Ruby/Rails/Hanami related jobs
-* [JavaScript Vietnam](http://chat.vietnamjs.lol) - for JS related jobs
+* [JavaScript Vietnam](https://vietnamrb.slack.com/messages/C0J7M3P8V/) - for JS related jobs
 * [Golang Vietnam](http://facebook.com/golang.org.vn/) - for Go related jobs
-* [C++ HCMC User Group](https://www.facebook.com/groups/hcmcpp/) - for C++ related jobs in HCMC
-* [Scala Vietnam](https://www.facebook.com/scalavietnam/) - for Scala related jobs
+* [C++ HCMC User Group](https://vietnamrb.slack.com/messages/C0Y25HCGL/) - for C++ related jobs in HCMC
 * [Grokking Vietnam](https://www.grokking.org) - a community of high-quality software engineers in Vietnam
 
 ### What type of job could you advertise?
@@ -44,7 +43,8 @@ We are open to stack that are not listed too.
 
 ### How to submit a new job post?
 
-Simply [submit a ticket GitHub issue](https://github.com/awesome-jobs/jobs/issues/new)
+1. [Submit a ticket GitHub issue](https://github.com/awesome-jobs/jobs/issues/new).
+3. After submission, your job post will be temporarily closed for review and will be reopened once approved.
 
 ### How long would a job post live?
 
@@ -148,7 +148,7 @@ Trollman: trollman_at_gmail_dot_com (mobile number optional)
 
 #### Checklists before submission
 
-Please ensure you do check for typo and grammar before submitting the post.
+Please ensure you do check for typo, grammar, and our [guideline](https://github.com/awesome-jobs/vietnam#what-is-the-format-of-the-job-post) before submitting the post.
 
 ### How to review job posts? (for reviewer)
 
