@@ -1,4 +1,4 @@
-# Before posting anyjob: 
+# Before posting any job: 
 For every people who want to post job here, please read **CAREFULLY** everything we write here, or your job post will not be accepted.
 
 # Awesome Board
@@ -7,7 +7,7 @@ For every people who want to post job here, please read **CAREFULLY** everything
 
 A community-based job board that connect the best developers to the best companies in Vietnam and overseas! We place our core value in the IT communities, we win when our community win.
 
-If you are recruiting, please be noted that we strongly believe that __good companies always provide the best job post__. It is our duty to uphold this belief by asking that you, the company's HR (_not recruitment agency_), to _comply_ with our strict rules below. If the job post does not meet our [requirements](#what-is-the-format-of-the-job-post), it would get __deleted after 2 days__.
+If you are recruiting, please be noted that we strongly believe that __good companies always provide the best job posts__. It is our duty to uphold this belief by asking that you, the company's HR (_not recruitment agency_), to _comply_ with our strict rules below. If the job post does not meet our [requirements](#what-is-the-format-of-the-job-post), it would get __deleted after 2 days__.
 
 ### Partners
 
@@ -17,9 +17,9 @@ If you are recruiting, please be noted that we strongly believe that __good comp
 * [C++ HCMC User Group](https://vietnamrb.slack.com/messages/C0Y25HCGL/) - for C++ related jobs in HCMC
 * [Grokking Vietnam](https://www.grokking.org) - a community of high-quality software engineers in Vietnam
 
-### What type of job could you advertise?
+### What types of job could you advertise?
 
-We only accept job post for following technologies:
+We only accept job posts for following technologies:
 
 * Ruby/Hanami/Ruby On Rails
 * Python/Django
@@ -30,7 +30,6 @@ We only accept job post for following technologies:
 * Java
 * Scala
 * Clojure
-* iOS/Swift/Android
 * JS +/- HTML/CSS
 * Haskell
 * Crystal
@@ -43,7 +42,7 @@ We are open to stack that are not listed too.
 
 ### How to submit a new job post?
 
-1. [Submit a ticket GitHub issue](https://github.com/awesome-jobs/jobs/issues/new).
+1. [Submit a GitHub issue ticket](https://github.com/awesome-jobs/jobs/issues/new).
 3. After submission, your job post will be temporarily closed for review and will be reopened once approved.
 
 ### How long would a job post live?
@@ -52,7 +51,7 @@ We are open to stack that are not listed too.
 
 ### What is the format of the job post?
 
-Every job post **MUST strictly** MUST be written in *English*. Furthermore, it must comply following rules:
+Every job post **MUST strictly** be written in *English*. Furthermore, it must comply the following rules:
 
 #### Title Format
 
@@ -66,13 +65,13 @@ in which `[Job Type]` could be:
 * PT (for Part Time)
 * C (for Contract)
 
-for eg:
+eg:
 
 ```
 Facebook - Chief Software Architect - Remote/Saigon - FT
 ```
 
-Please be noted, title _cannot be_ all in *uppercase* like this:
+Please be noted, title _cannot be_ all caps like this:
 
 ```
 FACEBOOK - CHIEF SOFTWARE ARCHITECT - REMOTE/SAIGON - FT
@@ -150,6 +149,6 @@ Trollman: trollman_at_gmail_dot_com (mobile number optional)
 
 Please ensure you do check for typo, grammar, and our [guideline](https://github.com/awesome-jobs/vietnam#what-is-the-format-of-the-job-post) before submitting the post.
 
-### How to review job posts? (for reviewer)
+### How to review job posts? (for reviewers)
 
-The new [pipeline](https://github.com/awesome-jobs/vietnam/projects/1) allows reviewer to _Add cards_ by dragging new job posts to the _To Review_ column (I will try to automate this step first). Once a review process  commences, the job is to be dragged to the _Review in progress_ column. The result of the review process would be reflected in the moving the card to _Approve_ or _Rejected_ columns.
+The new [pipeline](https://github.com/awesome-jobs/vietnam/projects/1) allows reviewer to _Add cards_ by dragging new job posts to the _To Review_ column (I will try to automate this step first). Once a review process commences, the job is to be dragged to the _Review in progress_ column. The result of the review process would be reflected in the moving the card to _Approve_ or _Rejected_ columns.
