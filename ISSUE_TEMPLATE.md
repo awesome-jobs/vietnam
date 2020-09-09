@@ -35,7 +35,7 @@ Great power comes with great responsibilities!
 ### You can bring
 
 * A good eyes for design
-* A good analyis skill
+* A good analysis skill
 
 ### Why it would be awesome to work with us
 
