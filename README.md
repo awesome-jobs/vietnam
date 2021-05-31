@@ -148,7 +148,3 @@ Trollman: trollman_at_gmail_dot_com (mobile number optional)
 #### Checklists before submission
 
 Please ensure you do check for typo, grammar, and our [guideline](https://github.com/awesome-jobs/vietnam#what-is-the-format-of-the-job-post) before submitting the post.
-
-### How to review job posts? (for reviewers)
-
-The new [pipeline](https://github.com/awesome-jobs/vietnam/projects/1) allows reviewer to _Add cards_ by dragging new job posts to the _To Review_ column (I will try to automate this step first). Once a review process commences, the job is to be dragged to the _Review in progress_ column. The result of the review process would be reflected in the moving the card to _Approve_ or _Rejected_ columns.
